@@ -1,0 +1,11 @@
+Pode ser em grupo ou individual.
+HTML com
+- Ideia Principal - com texto e Imagem
+- Objetivo e Estratégias
+- Nicho e Proposta de Valor
+
+Objetivo: Compreender e ajudar o usuário a criar o hábito de uma dieta saudável, através de um aplicativo que , através uma inteligência artificial que recomenda alimentos saudáveis de acordo com a situação nutricional do usuário, por exemplo
+Ideia principal: Aplicativo de ajuda nutricional
+Estratégias:?
+Nicho: Fitness e alimentação
+Proposta de valor: ser o companheiro número 1 na rotina alimentar dos usuários, ajudando-os a transformarem suas vidas a partir da alimentação saudável
